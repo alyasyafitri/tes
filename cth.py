@@ -1,2 +1,3 @@
-print('Halo Alya !')
-print('hayuk belajar')
+print('Hai kamu !')
+print('Belajar yuk')
+print('Asyik lo')
